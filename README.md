@@ -1,7 +1,7 @@
 # bashMagic
-Every script showing up here qulifies:
-- I wrote them from scratch (probably spent quite a time on it)
-- I had not find any alternatives by the time I wrote it
+Every script showing up here meets the following:
+- I wrote them from scratch (some bricks may be from web but probably I spent quite a time to complete the whole thing)
+- I could not find any alternatives at the time I wrote it
 - Useful and elegant (Hope so)
 
 Feel free to share and improve!

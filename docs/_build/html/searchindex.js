@@ -1,0 +1,1 @@
+Search.setIndex({envversion:46,filenames:["README","README.md"],objects:{},objnames:{},objtypes:{},terms:{bash:0,bashmag:0,content:1,index:1,modul:1,page:1,script:0,search:1,some:0},titles:["&lt;no title&gt;","Welcome to bashMagic&#8217;s documentation!"],titleterms:{bashmag:1,document:1,indic:1,tabl:1,welcom:1}})
